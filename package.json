@@ -2,7 +2,7 @@
   "name": "telemetryclient-team-services-extension",
   "version": "1.0.8",
   "description": "Track telemetry data for your Team Services extension",
-  "homepage": "https://github.com/ALM-Rangers/Application-Insights-Client",
+  "homepage": "https://github.com/ALM-Rangers/telemetryclient-team-services-extension",
   "main": "lib/telemetryclient.js",
   "typings": "lib/telemetryclient",
   "files": [
@@ -21,7 +21,7 @@
   ],
   "repository": {
     "type": "git",
-    "url": "https://github.com/ALM-Rangers/Application-Insights-Client"
+    "url": "https://github.com/ALM-Rangers/telemetryclient-team-services-extension"
   },
   "author": "Visual Studio ALM Rangers",
   "license": "MIT",
