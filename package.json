@@ -1,0 +1,36 @@
+{
+  "name": "telemetryclient-team-services-extension",
+  "version": "1.0.8",
+  "description": "Track telemetry data for your Team Services extension",
+  "homepage": "https://github.com/ALM-Rangers/telemetryclient-team-services-extension",
+  "main": "lib/telemetryclient.js",
+  "typings": "lib/telemetryclient",
+  "files": [
+    "lib/telemetryclient.d.ts",
+    "lib/telemetryclient.js"
+  ],
+  "scripts": {
+    "build": "tsc && ts-npm-lint --fix-typings"
+  },
+  "keywords": [
+    "Visual Studio Team Services",
+    "Team Foundation Server",
+    "extension",
+    "application insight",
+    "telemetry"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/ALM-Rangers/telemetryclient-team-services-extension"
+  },
+  "author": "Visual Studio ALM Rangers",
+  "license": "MIT",
+  "devDependencies": {
+    "ts-npm-lint": "^0.1.0",
+    "typescript": "~2.3.2"
+  },
+  "dependencies": {
+    "applicationinsights-js": "^1.0.8",
+    "vss-web-extension-sdk": "^2.115.0"
+  }
+}

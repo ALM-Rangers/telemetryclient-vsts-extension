@@ -1,0 +1,18 @@
+{
+    "compilerOptions": {
+        "module": "amd",
+        "declaration": true,
+        "outDir": "lib/",
+        "target": "es5",
+        "sourceMap": true,
+        "moduleResolution": "node"
+    },
+    "files": [
+            "./src/telemetryclient.ts"
+        ],
+    "exclude": [
+        "node_modules",
+        "typings"
+    ]
+    
+}
