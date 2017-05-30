@@ -5,6 +5,8 @@
 Get insights in the usage of your extension by leveraging Microsoft Application Insights.
 Data will only be tracked for extensions running in Visual Studio Team Services. If your extension is installed in TFS On-Premise, the calls to Application Insights will be skipped.
 
+See [How to integrate Application Insights monitoring in your Team Services extension](https://blogs.msdn.microsoft.com/visualstudioalmrangers/2017/05/30/how-to-integrate-application-insights-monitoring-in-your-team-services-extension/)
+
 # Getting Started
 
 1. Install the package through npm: `npm install telemetryclient-team-services-extension`
