@@ -75,9 +75,3 @@ And npm dependencies list are :
 - [ts-npm-lint](https://www.npmjs.com/package/ts-npm-lint)
 - [applicationinsights-js](https://www.npmjs.com/package/applicationinsights-js)
 - [vss-web-extension-sdk](https://www.npmjs.com/package/vss-web-extension-sdk)
-
-
-The DevOps assets folder contains scripts we have sourced from 3rd parties
-
-- [Set-PackageQuality.ps1](https://roadtoalm.com/2017/01/16/programmatically-promote-your-package-quality-with-release-views-in-vsts/), by René van Osnabrugge
- 
