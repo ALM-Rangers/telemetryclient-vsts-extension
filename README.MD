@@ -47,9 +47,6 @@ See [How to integrate Application Insights monitoring in your Team Services exte
 - Visual Studio Team Services
 - Application Insights resource in Azure
 
-# Notices
-Notices for certain third party software included in this solution are provided here: [Third Party Notice](ThirdPartyNotices.txt).
-
 ## Contributions
 
 ### Team
