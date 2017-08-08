@@ -1,9 +1,9 @@
-# Track telemetry data for your Team Services extension ##
+# Track telemetry data for your Visual Studio Team Services (VSTS) extension ##
 
 ![VSTS](https://almrangers.visualstudio.com/_apis/public/build/definitions/7f3cfb9a-d1cb-4e66-9d36-1af87b906fe9/133/badge) | [![NPM](https://nodei.co/npm/telemetryclient-team-services-extension.png?mini=true)](https://www.npmjs.com/package/telemetryclient-team-services-extension)
 
 Get insights in the usage of your extension by leveraging Microsoft Application Insights.
-Data will only be tracked for extensions running in Visual Studio Team Services. If your extension is installed in TFS On-Premise, the calls to Application Insights will be skipped.
+Data will only be tracked for extensions running in Visual Studio Team Services (VSTS). If your extension is installed in TFS On-Premise, the calls to Application Insights will be skipped.
 
 See [How to integrate Application Insights monitoring in your Team Services extension](https://blogs.msdn.microsoft.com/visualstudioalmrangers/2017/05/30/how-to-integrate-application-insights-monitoring-in-your-team-services-extension/), which demonstrates how to integrate Application Insights telemetry in your extension by using this package.
 
