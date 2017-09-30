@@ -1,4 +1,4 @@
-# Track telemetry data for your Visual Studio Team Services (VSTS) extension ##
+# telemetryclient-vsts-extension ##
 
 ![VSTS](https://almrangers.visualstudio.com/_apis/public/build/definitions/7f3cfb9a-d1cb-4e66-9d36-1af87b906fe9/133/badge) | [![NPM](https://nodei.co/npm/telemetryclient-team-services-extension.png?mini=true)](https://www.npmjs.com/package/telemetryclient-team-services-extension)
 
