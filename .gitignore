@@ -4,3 +4,8 @@
 
 /.vs
 /node_modules
+Sync.cmd
+lib/telemetryclient.js.map
+package-lock.json
+lib/telemetryclient.js
+lib/telemetryclient.d.ts

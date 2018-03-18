@@ -72,3 +72,4 @@ And npm dependencies list are :
 - [ts-npm-lint](https://www.npmjs.com/package/ts-npm-lint)
 - [applicationinsights-js](https://www.npmjs.com/package/applicationinsights-js)
 - [vss-web-extension-sdk](https://www.npmjs.com/package/vss-web-extension-sdk)
+
