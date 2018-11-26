@@ -40,6 +40,7 @@ See [How to integrate Application Insights monitoring in your Team Services exte
      tc.TelemetryClient.getClient(settings).trackEvent()
      tc.TelemetryClient.getClient(settings).trackException()
      tc.TelemetryClient.getClient(settings).trackMetric()
+     tc.TelemetryClient.getClient(settings).trackTrace()
     ```
 
 # Prerequisites
