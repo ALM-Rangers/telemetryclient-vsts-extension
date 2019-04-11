@@ -113,4 +113,14 @@ export class TelemetryClient {
         }
     }
 
+    public trackTrace(message: string, properties?: { [name: string]: string }, severityLevel?: AI.SeverityLevel) {
+        try {
+                AppInsights.trackTrace(this.ExtensionContext + "." + message, properties, severityLevel);
+                AppInsights.flush();
+        }
+        catch (e) {
+            console.log(e);
+        }
+    }
+
 }

@@ -1,6 +1,6 @@
 {
   "name": "telemetryclient-team-services-extension",
-  "version": "1.0.8",
+  "version": "1.0.9",
   "description": "Track telemetry data for your Team Services extension",
   "homepage": "https://github.com/ALM-Rangers/telemetryclient-team-services-extension",
   "main": "lib/telemetryclient.js",
